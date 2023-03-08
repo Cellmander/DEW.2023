@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+  
+  <head>
+  <title> Receita de bolo </title>
+  <meta charset="utf-8">
+  </head>
+  
+  <body>
+  <h1> <b>Ingredientes</b> </h1>
+  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non mauris vel est imperdiet aliquet. <i>Nullam</i> suscipit purus augue, sit amet ultricies odio feugiat vitae. Duis vestibulum turpis a ipsum porttitor, vel cursus magna suscipit. Nunc ac erat at urna consequat porta id non lectus. Donec quis dolor sagittis, volutpat est sed, ullamcorper nunc. Donec molestie, turpis sit amet mollis vestibulum, felis metus finibus justo, id laoreet nibh velit ac ex. Cras iaculis a neque ut semper. Ut porta efficitur bibendum. Ut condimentum orci sagittis tristique molestie. In hac habitasse platea dictumst. Maecenas congue arcu nec pulvinar porttitor. Quisque ut pulvinar lacus. Integer et risus accumsan, viverra purus at, semper augue. Nunc luctus, mauris ac lobortis laoreet, mi leo posuere felis, in pretium mi quam in sem. Phasellus tortor massa, aliquet convallis mi et, vehicula tincidunt eros. </p>
+
+  <h1> <b>Modo de preparo</b> </h1>
+  <h2> <i>Massa do bolo</i> </h2>
+  <p> Donec id tincidunt justo, consequat congue dolor. In elit libero, consectetur eget imperdiet eget, lacinia non ipsum. Nunc ornare nunc id turpis aliquet varius. Fusce ultricies sit amet dui sed consequat. Sed urna elit, dapibus eget eros id, vestibulum finibus lorem. Nulla sit amet dui feugiat, fringilla urna et, commodo metus. Ut non purus accumsan, convallis mi at, lacinia mi. Integer rutrum viverra turpis eu lacinia. Nunc pellentesque at nunc blandit posuere. In tincidunt mauris sed nulla interdum tristique. Pellentesque vitae massa eleifend urna molestie laoreet. Vivamus consectetur sollicitudin est, vel ultrices justo interdum vel. Aenean vestibulum posuere pretium. Praesent auctor sit amet urna rutrum condimentum. Duis rhoncus velit eu leo tincidunt commodo. </p>
+  <h2> <i>Cobertura</i> </h2>
+  <p> Pellentesque eu leo eu velit hendrerit placerat eu eget sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus sagittis sollicitudin justo, non finibus leo sagittis non. Donec justo tellus, sollicitudin vel pulvinar non, accumsan nec purus. Ut pretium est nec dui iaculis scelerisque. Donec at dignissim justo. Ut metus dui, volutpat convallis purus eget, egestas fringilla quam. Donec augue purus, pulvinar elementum ex sit amet, ultricies vulputate diam. Ut iaculis urna quis leo imperdiet, eu tincidunt mi euismod. Phasellus posuere enim in sapien molestie, at lobortis mi hendrerit. Cras bibendum ac diam vitae ultrices. Maecenas imperdiet facilisis laoreet. Vivamus at vestibulum libero. Vivamus at turpis et erat pretium tempus. Nunc feugiat neque quis dolor dignissim consequat. </p>
+  <h1> <b>Finalização</b> </h1>
+  <p> Pellentesque eu leo eu velit hendrerit placerat eu eget sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus sagittis sollicitudin justo, non finibus leo sagittis non. Donec justo tellus, sollicitudin vel pulvinar non, accumsan nec purus. Ut pretium est nec dui iaculis scelerisque. Donec at dignissim justo. Ut metus dui, volutpat convallis purus eget, egestas fringilla quam. Donec augue purus, pulvinar elementum ex sit amet, ultricies vulputate diam. Ut iaculis urna quis leo imperdiet, eu tincidunt mi euismod. Phasellus posuere enim in sapien molestie, at lobortis mi hendrerit. Cras bibendum ac diam vitae ultrices. Maecenas imperdiet facilisis laoreet. Vivamus at vestibulum libero. Vivamus at turpis et erat pretium tempus. Nunc feugiat neque quis dolor dignissim consequat </p>
+
+  </body>
+</html>
