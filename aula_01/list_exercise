@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Exercicios Listas</title>
+    <meta charset="utf-8">
+  </head>
+<body>
+    <h1>Lista de Compras</h1>
+     <ol>
+        <li>Ovo</li>
+        <li>Leite</li>
+        <li>Farinha</li>
+        <li>Açúcar</li>
+        <li>Arroz</li>
+     </ol>
+    <h1>Grupos Copa 2022</h1>
+     <ul>
+        <li>Grupo A</li>
+         <ol>
+            <li>Brasil</li>
+            <li>Sérvia</li>
+            <li>Suíça</li>
+            <li>Camarões</li>
+         </ol>
+        <li>Grupo B</li>
+         <ol>
+            <li>Qatar</li>
+            <li>Equador</li>
+            <li>Senegal</li>
+            <li>Holanda</li>
+         </ol>
+     </ul>
+    <h1>Top 10 Países Mais Visitados do Mundo</h1>
+    <ol>
+        <li>França</li>
+        <li>Espanha</li>
+        <li>Estados Unicos</li>
+        <li>China</li>
+        <li>itália</li>
+        <li>Turquia</li>
+        <li>México</li>
+        <li>Alemanha</li>
+        <li>Tailândia</li>
+        <li>Inglaterra</li>
+    </ol>
+    <h1>Países Com o Pior IDH do Mundo</h1>
+    <ol reversed>
+        <li>Guiné (IDH 0,465)</li>
+        <li>Yemen (IHD 0,455)</li>
+        <li>Burkina Faso (IHD 0,449)</li>
+        <li>Moçambique (IHD 0,446)</li>
+        <li>Mali (IHD 0,428)</li>
+        <li>Burundi (IHD 0,426)</li>
+        <li>República Centro-Africana (IHD 0,404)</li>
+        <li>Níger (IHD 0,400)</li>
+        <li>Chade (IHD 0,394)</li>
+        <li>Sudão do Sul (IHD 0,385)</li>
+    </ol reversed>
+    <h1>Ricardão Lanches</h1>
+    <h2>Cardápio</h2>
+      <dl>
+        <dt>X Salada | $20</dt>
+        <dd>Pão, hamburguer 120g, queijo mussarela, maionese defumada, tomate e alface orgânicos.</dd>
+        <dt>X Picanha | $30</dt>
+        <dd>Pão, hamburguer de picanha 200g, queijo mussarela, maionese defumada, molho barbecue.</dd>
+      </dl>
+
+</body>
+</html>
