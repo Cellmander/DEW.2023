@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Listas</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Listas com HTML</h1>
+        <h2>Listas não ordenadas</h2>
+        <ul>
+            <li>Carro</li>
+            <li>Cores</li>
+            <li>Países</li>
+            <li>Frutas</li>
+        </ul>
+
+        <h2> Listas Ordenadas </h2>
+        <ol>
+            <li>Ayrton Senna</li>   
+            <li>Jair Bolsonaro</li>  
+            <li>Lula</li>
+            <li>Luciano Huck</li>   
+        </ol>
+        <h2> Listas Ordenadas Reversa </h2>
+        <ol reversed>
+            <li>Ayrton Senna</li>   
+            <li>Jair Bolsonaro</li>  
+            <li>Lula</li>
+            <li>Luciano Huck</li>   
+        </ol reversed>
+        <h2>Listas aninhadas</h2>
+        <ul>
+            <li>Carro</li>
+            <ul>
+              <li>Fusca</li>
+              <li>Ferrari</li>
+            </ul>
+            <li>Cores</li>
+            <ul>
+                <li>Azul</li>
+                <li>Preto</li>
+            </ul>
+            <li>Países</li>
+            <ul>
+                <li>Brasil</li>
+                  <ul>
+                    <li>Nordeste</li>
+                  </ul>
+            </ul>
+            <li>Frutas</li>
+            <ul>
+                <li>Banana</li>
+              </ul>
+        </ul>
+        <h2>Lista de definição</h2>
+           <dl>
+            <dt><b>Algoritmo</b></dt>
+            <dd>Uma série de comandos finitos realizados para executar uma tarefa</dd>
+            <dt><b>Computador</b></dt>
+            <dd>Uma máquina capaz de fazer vários cálculos simultaneamente</dd>
+           </dl>
+    </body>
+</html>
